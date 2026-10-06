@@ -1,0 +1,3 @@
+﻿  ATM SYSTEM - C++.cpp
+C:\Users\daynabook\source\repos\ATM SYSTEM - C++\ATM SYSTEM - C++\ATM SYSTEM - C++.cpp(38,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  ATM SYSTEM - C++.vcxproj -> C:\Users\daynabook\source\repos\ATM SYSTEM - C++\x64\Debug\ATM SYSTEM - C++.exe
